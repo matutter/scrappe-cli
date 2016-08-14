@@ -1,0 +1,31 @@
+{
+  "name": "scrappee-cli",
+  "version": "1.0.0",
+  "description": "A command line interface for scrappee.",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matutter/scrappee-cli.git"
+  },
+  "keywords": [
+    "interactive",
+    "web",
+    "scraper",
+    "webscraper",
+    "client"
+  ],
+  "author": "matutter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matutter/scrappee-cli/issues"
+  },
+  "homepage": "https://github.com/matutter/scrappee-cli#readme",
+  "dependencies": {
+    "arg-to-object": "^1.2.2",
+    "read": "^1.0.7",
+    "scrappee": "^2.0.1"
+  }
+}
